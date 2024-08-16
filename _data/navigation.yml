@@ -2,14 +2,13 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Web"
-    url: /web/
-  - title: "Mobile"
-    url: /mobile/
+  - title: "VulnInfo"
+    url: /VulnInfo/
+  - title: "Tools"
+    url: /tools/
   - title: "System"
     url: /system/
-  - title: "Post"
-    url: "/post/"
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
